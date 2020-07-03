@@ -15,7 +15,7 @@ int main(int argc, const char * argv[]) {
     printf("World, WRYYYYY!!!!!!!!!!!!!");
     printf("아아아악");
     
-    printf("마지막!!");
+    printf("마지막!! 입니다아아아");
     return 0;
 }
 
