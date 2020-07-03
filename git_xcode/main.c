@@ -13,9 +13,11 @@ int main(int argc, const char * argv[]) {
     printf("Hello, World!\n");
     printf("Hello, Miku! \n");
     printf("World, WRYYYYY!!!!!!!!!!!!!");
-    printf("아아아악");
     
     printf("마지막!! 입니다아아아");
+    
+    printf("아아아악");
+    
     return 0;
 }
 
