@@ -18,6 +18,7 @@ int main(int argc, const char * argv[]) {
     printf("마지막!dwqdqwdwqd! 입니다아아아");
     
     printf("아아아악");
+    printf("샤이니 노래 듣는중");
     
     return 0;
 }
