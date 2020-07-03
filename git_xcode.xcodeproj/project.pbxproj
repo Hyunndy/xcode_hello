@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		CE07CF7624AF4A1A003CC55B /* git_xcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = git_xcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE07CF7924AF4A1A003CC55B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		CE07CF8124AF5309003CC55B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		CE07CF6D24AF4A1A003CC55B = {
 			isa = PBXGroup;
 			children = (
+				CE07CF8124AF5309003CC55B /* .gitignore */,
 				CE07CF7824AF4A1A003CC55B /* git_xcode */,
 				CE07CF7724AF4A1A003CC55B /* Products */,
 			);
